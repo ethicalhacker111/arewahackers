@@ -3,7 +3,7 @@
 <a href="https://bit.ly/3aQsDu4"><img title="WANNAN ABU DAKU KE GANI ANYISHI NE A MATSAYIN GWAJI" src="https://img.shields.io/badge/-WANNAN ABU DAKU KE%20GANI%20ANYISHI NE A MATSAYIN GWAJI-green%2Cwhite%2Cgreen"></a>
 </p>
 <p align="center">
-<a href="https://bit.ly/3aQsDu4"><img title="Made in INDIA" src="https://img.shields.io/badge/Termux-Theme-green.svg"></a>
+<a href="https://bit.ly/3aQsDu4"><img title="SAUNA KAWAJI" src="https://img.shields.io/badge/Termux-Theme-green.svg"></a>
 <a href="https://bit.ly/3aQsDu4"><img title="Version" src="https://img.shields.io/badge/Version-1.2-green.svg?style=flat-square"></a>
 
 </p>
@@ -30,19 +30,7 @@
 
 ## INSTALLATION ON [Termux] :
 
-* `apt-get update -y`
-* `apt-get upgrade -y`
-* `pkg install python -y`
-* `pkg install python2 -y`
-* `pkg install git -y`
-* `pip install lolcat`
-* ` git clone https://github.com/080hackers/TermuxTheme`
-* `cd TermuxTheme`
-* `chmod 777 *`
-* `./setup`
-* `ls`
-* `./TermuxTheme.sh`
-```
+
 THIS TOOL WAS RECODED BY BAJE TECH AND FIRSTLY MADE WITH NOOB HACKERS, IS NOT MADE TO HACK SOMETHING IT'S JUST MADE TO CHANGE YOUR TERMUX THEME TO
 LOOK AWEASOME AS YOU DON'T EVER THINK.
 ```
